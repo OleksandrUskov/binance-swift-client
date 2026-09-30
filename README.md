@@ -59,8 +59,8 @@ needs no network and never flakes.
 
 ## Background
 
-Extracted and cleaned from **Cursaris**, a multi-exchange crypto-futures terminal that integrates
-11 exchanges. This is the public, no-auth slice of that exchange layer.
+Extracted and cleaned from **Cursaris**, a multi-exchange crypto portfolio and risk app that
+integrates more than ten exchanges. This is the public, no-auth slice of that exchange layer.
 
 ## License
 
