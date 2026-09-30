@@ -59,8 +59,10 @@ needs no network and never flakes.
 
 ## Background
 
-Extracted and cleaned from **Cursaris**, a multi-exchange crypto portfolio and risk app that
-integrates more than ten exchanges. This is the public, no-auth slice of that exchange layer.
+Extracted and cleaned from the price and benchmark code of **Cursaris** — a native, read-only app
+that brings a crypto-futures book from more than ten exchanges into one view. Cursaris prices
+holdings through Binance's `ticker/24hr` and compares performance against a benchmark through
+`klines`; this package is that public, no-auth slice of its exchange layer.
 
 ## License
 
